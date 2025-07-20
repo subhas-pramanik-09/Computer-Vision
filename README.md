@@ -29,13 +29,13 @@ Controls the mouse cursor and clicks using hand gestures.
 
 | Hand Tracker & Finger Counter | Face Mesh | AI Personal Trainer |
 |-------------------------------|-----------|---------------------|
-| ![Hand Tracker](screenshots/hand_tracker.png) | ![Face Mesh](screenshots/face_mesh.png) | ![AI Trainer](screenshots/ai_trainer.png) |
+| ![Hand Tracker](https://github.com/user-attachments/assets/00b3d9fa-1e7d-46fa-82d8-8ea6df4fd3dd) | ![Face Mesh](https://github.com/user-attachments/assets/80930960-20fb-408c-8c6e-b77311b80c58) | ![AI Trainer](https://github.com/user-attachments/assets/b322a0a2-1f5d-4c1b-bf57-0f5ebc36f64d) |
 
 | Gesture Volume Control | AI Virtual Mouse |
 |------------------------|------------------|
-| ![Volume Control](screenshots/volume_control.png) | ![Virtual Mouse](screenshots/virtual_mouse.png) |
+| ![Volume Control](https://github.com/user-attachments/assets/979c9630-8892-47e6-a03d-799196ed49c9) | ![Virtual Mouse](https://github.com/user-attachments/assets/9679bfa5-21ea-4a36-bdfe-d7b4ba988965) |
 
-*(Replace the image paths with your actual screenshot filenames.)*
+
 
 ---
 
